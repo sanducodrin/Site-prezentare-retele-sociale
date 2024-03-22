@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <title>Rețelele sociale</title>
+<!--
+Rețelele sociale
+https://templatemo.com/tm-536-dream-pulse
+-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="slick/slick.css"/>    
+    <link rel="stylesheet" href="slick/slick-theme.css"/>    
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/templatemo-dream-pulse.css" />
+  </head>
+  <body>
+    <main class="container-fluid">
+      <div class="row">        
+          <nav id="tmSidebar" class="tm-bg-black-transparent tm-sidebar">
+            <button class="navbar-toggler" type="button" aria-label="Toggle navigation">
+              <i class="fas fa-bars"></i>
+            </button>
+            <div class="tm-sidebar-sticky">
+              <div class="tm-brand-box">
+                <div class="tm-double-border-1">
+                  <div class="tm-double-border-2">
+                    <h1 class="tm-brand text-uppercase">Rețelele sociale</h1>
+                  </div>
+                </div>
+              </div>
+
+              <ul id="tmMainNav" class="nav flex-column text-uppercase text-right tm-main-nav">
+                <li class="nav-item">
+                  <a href="#intro" class="nav-link active">
+                    <span class="d-inline-block mr-3">Intro</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#about" class="nav-link">
+                    <span class="d-inline-block mr-3">Despre</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#work" class="nav-link">
+                    <span class="d-inline-block mr-3">Aplicații</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#clients" class="nav-link">
+                    <span class="d-inline-block mr-3">Top 7</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#talk" class="nav-link">
+                    <span class="d-inline-block mr-3">Hai sa vorbim</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+              </ul>
+              <ul class="nav flex-row tm-social-links">
+                <li class="nav-item">
+                  <a href="https://facebook.com" class="nav-link tm-social-link">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="https://twitter.com" class="nav-link tm-social-link">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>    
+              </ul>             
+            </div>
+          </nav>
+
+          
+          <main role="main" class="ml-sm-auto col-12">
+            <div
+              class="parallax-window"
+              data-parallax="scroll"
+              data-image-src="img/dream-pulse-header.jpg">
+              <div class="tm-section-wrap">
+                <section id="intro" class="tm-section">
+                    <div class="tm-bg-white-transparent tm-intro">
+                        <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Social media in 2020 ?</h2>
+                        <p class="tm-color-gray">
+                           Ar trebui să intri pe Instagram? Poate plasați jumătate din bugetul social
+                           media pe Facebook și împărțiți restul între YouTube și Snapchat? Dar Pinterest? Acestea
+                           sunt tipurile de întrebări care afectează deopotrivă întreprinderile mici și echipele de marketing.
+                        </p>
+                        <p class="mb-0 tm-color-gray">
+                          
+                        </p>
+                    </div>              
+                </section>
+            </div>            
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="about" class="row tm-section">
+              <div class="col-xl-6">
+                <div class="tm-section-half">    
+                  <p class="mb-5">
+                   Perioada pandemiei a dus la o explozie în ceea ce privește folosirea mediului online.
+       Cele mai uzuale mijloace de conectare cu cei dragi sunt rețelele sociale. Asta pentru că majoritatea
+       au incluse și partea de video apel. Tot cu ajutorul lor foarte multe business-uri și-au păstrat
+       legătura cu clienții sau au trecut afacerea din mediul offline în cel online.
+                    </p>
+                    <p>
+                      
+
+                </div>
+              </div>
+              <div class="col-xl-6">
+                <div class="tm-section-half">
+                   
+                   
+                    <p class="mb-5">
+                      Potrivit celor de la Statista, lider absolut cu peste 2,6 miliarde de utilizatori 
+        este Facebook. După Facebook, la egalitate ca și număr de utilizatori (2 miliarde) sunt Youtube 
+        și Whatsapp. Tot pe podium se află și Facebook messenger cu 1,3 miliarde de utilizatori.
+                    </p>
+                    <p>
+                       
+
+                    </p>
+                </div>
+              </div>
+            </section>
+          </div>
+            
+          <div class="tm-section-wrap bg-white">
+            <section id="work" class="row tm-section">
+              <div class="col-12">
+                <div class="w-100 tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">
+                      <div class="tm-gallery-wrap">
+                          <h2 class="tm-color-primary tm-section-title mb-4 ml-2">Aplicații</h2>
+
+                          <div class="tm-gallery">
+                            <div class="tm-gallery-item">                        
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/01.jpg" alt="Our Work Image" class="img-fluid">
+                                <figcaption>
+                                  <h2><span>Instagram</span></h2>
+                                  <a href="img/gallery/large/01.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
+                            <div class="tm-gallery-item">
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/02.jpg" alt="Our Work Image" class="img-fluid">
+                                <figcaption>
+                                  <h2><span>Facebook</span></h2>
+                                  <a href="img/gallery/large/02.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
+                            <div class="tm-gallery-item">
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/03.jpg" alt="Our Work Image" class="img-fluid">
+                                <figcaption>
+                                  <h2><span>Whatsapp</span></h2>
+                                  <a href="img/gallery/large/03.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
+                            
+                          </div>
+                      </div>                        
+                    </div>                  
+                  </div>     
+              </div>         
+            </section>
+          </div>
+            
+          <div class="tm-section-wrap bg-white">
+            <section id="clients" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Top 7 aplicatii in 2020</h2>
+                          <p class="mb-5">
+                             <h2 class="tm-color-primary tm-section-title mb-4">Instagram</h2>
+                   
+Casă a influențatorilor, mărcilor, bloggerilor, proprietarilor de afaceri mici, prietenilor și tuturor 
+celor din jur, Instagram a depășit cu mult peste 1 miliard de utilizatori lunari. Dacă vă întrebați dacă 
+un segment semnificativ al publicului dvs. petrece timp pe platformă, răspunsul este aproape sigur un da răsunător.
+                </p>
+                    <p>
+                       
+                   
+                    <p class="mb-5">
+  <h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe Instagram (și de ce): Instagram a devenit una dintre cele mai populare platforme de socializare pentru 
+adolescenți și tineri, în special în S.U.A. Utilizarea aplicației scade încet odată cu înaintarea în vârstă, dar rămâne 
+consecventă atât pentru bărbați, cât și pentru femei, deci, dacă clienții dvs. au sub 40 de ani, atunci Instagram nu 
+poate fi ignorat. Conținutul care funcționează cel mai bine pe Instagram: fotografiile frumoase, imagini uimitoare, 
+modele unice, videoclip în stil selfie in care se vorbește direct publicului dumneavoastra și o temă coerentă pentru conținut
+vă va ajuta să ieșiți în evidență pe Instagram. 
+
+                          </p>
+<p class="mb-5">
+ <h2 class="tm-color-primary tm-section-title mb-4">Youtube</h2>
+
+YouTube este considerat al doilea cel mai popular motor de căutare din lume, chiar în spatele companiei sale mamă, Google. 
+Dacă afacerea dvs. ar putea beneficia de producerea de tutoriale video sau progrese, conținut de instrucțiuni vizuale, 
+recenzii de produse sau interviuri, atunci această platformă de socializare este o necesitate pentru a ajunge la cei peste
+2 miliarde de utilizatori lunari.
+</p>
+<p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe YouTube (și de ce): 73% dintre adulții din S.U.A. raportează în mod regulat folosind YouTube, cu o concentrație 
+mare în intervalul de vârstă cuprins între 15 și 34 de ani. YouTube este în general popular atât în ​​rândul bărbaților, cât și 
+al femeilor, iar utilizarea tinde să crească alături de venituri și nivelul de educație.
+ </p>
+<p class="mb-5">
+
+ <h2 class="tm-color-primary tm-section-title mb-4">Facebook</h2>
+Cu aproape 2,5 miliarde de utilizatori lunari, Facebook este cel mai mare site de socializare din lume. Deși acest lucru 
+asigură practic că cel puțin o parte din publicul dvs. folosește regulat platforma, a dezvoltat o reputație oarecum negativă 
+în rândul utilizatorilor mai tineri, care se îndreaptă din ce în ce mai mult către alte site-uri alternative.
+</p>
+<p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe Facebook (și de ce): 68% dintre adulții din SUA declară că folosesc Facebook, 51% spunând că sunt activi de 
+mai multe ori pe zi. Utilizarea este răspândită destul de uniform printre bărbați și femei, în timp ce utilizatorii tind 
+să devină din ce în ce mai activi pe măsură ce vârsta crește (în special dincolo de vârsta de peste 40 de ani).
+
+ </p>
+<p class="mb-5">
+ <h2 class="tm-color-primary tm-section-title mb-4">Twitter</h2>
+Deși numerele de utilizatori activi lunari de la Twitter au oscilat în mod constant în jur de 300 de milioane de ceva 
+vreme, 40% dintre acești utilizatori sunt activi pe site de mai multe ori pe zi, sugerând că, dacă publicul dvs. 
+folosește platforma, este probabil foarte implicat. Popularitatea acestui site de socializare rămâne ridicată în rândul 
+utilizatorilor cu cunoștințe tehnice și este deosebit de activă pe verticalele B2B legate de afaceri, marketing și politică astăzi.
+
+</p>
+<p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe Twitter (și de ce): 63% dintre utilizatorii Twitter au vârste cuprinse între 35 și 65 de ani, bărbații 
+reprezentând aproape două treimi din acei oameni.Conținutul care funcționează cel mai bine pe Twitter: Twitter a 
+devenit un mediu foarte popular pentru a comunica știri de ultimă oră, pentru a digera conținut de dimensiuni mușcate 
+și pentru a comunica direct cu utilizatorii dvs. în timp real. Videoclipurile și imaginile tind să iasă în evidență cel mai bine,
+dar un tweet scris bine datat face încă minuni dacă te interesezi de subiecte de actualitate și ești deosebit de ingenios.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4">TikTok</h2>
+Acest nou copil din cartier are mai puțin de doi ani, dar a primit peste 1 miliard de descărcări ale aplicației lor bazate 
+pe video în primul an de funcționare. Astăzi, TikTok vede peste 800 de milioane de utilizatori lunari, ceea ce îl plasează 
+instantaneu printre primele platforme de socializare din lume în ceea ce privește cifrele de utilizatori.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe TikTok (și de ce): Aproximativ 50% din audiența TikTok are sub 35 de ani în S.U.A., majoritatea publicului 
+fiind concentrat printre cei cu vârste cuprinse între 16 și 24 de ani. Conținutul care funcționează cel mai bine pe TikTok: 
+conținut video distractiv, interesant, comedic și uneori lipsit de sens, format de obicei pe melodia melodiilor populare. 
+Gândiți-vă la conținut distractiv, atrăgător, în stil video-muzical.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4">Pinterest</h2>
+Pinterest a devenit un instrument de marcare socială foarte popular pentru a salva idei și pentru a găsi inspirație 
+creativă atunci când vine vorba de orice, de la gătit la proiecte DIY de casă, idei de vacanță, design interior, afaceri 
+și orice altceva. Cu o audiență formată în principal din femei adulte, această platformă de socializare este adesea 
+citată ca o parte crucială a călătoriei de descoperire a produselor.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe Pinterest (și de ce): Cu peste 320 de milioane de utilizatori lunari, Pinterest se mândrește cu unul 
+dintre cele mai concentrate audiențe de femei dintre toate site-urile de socializare. Aproape 80% dintre utilizatorii 
+lor sunt de sex feminin, cu o concentrație mare în rândul mileniilor.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4">Snapchat</h2>
+În ciuda faptului că pare să piardă teren în fața platformelor de socializare ale concurenților precum Instagram și 
+TikTok, Snapchat rămâne în continuare una dintre cele mai utilizate aplicații cu vârsta sub 25 de ani demografică - 
+având peste 300 de milioane de utilizatori lunari în ultimele luni. Majoritatea utilizatorilor Snapchat frecventează 
+aplicația pentru a partaja actualizări și a comunica cu prietenii și familia prin imagini care dispar și mesaje video scurte.
+</p>
+<p class="mb-5">
+<h2 class="tm-color-primary tm-section-title mb-4"></h2>
+Cine este pe Snapchat (și de ce): adulții tineri cu vârste cuprinse între 18 și 24 de ani reprezintă un procent de 78% din 
+utilizatorii activi care participă la platforma de peste 14 miliarde de vizionări zilnice ale videoclipurilor. Utilizatorii 
+au tendința de a se înclina puțin mai mult spre femei, majoritatea accesând aplicația zilnic.
+</p>
+                      </div>
+          <div class="tm-section-wrap bg-white">
+            <section id="talk" class="row tm-section">
+                <div class="col-xl-6 mb-5">
+                  <div class="tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">
+                        <h2 class="tm-color-primary tm-section-title mb-4">Contacteaza-ne !</h2>
+                        <p class="mb-4">                       
+                        </p>
+                        <p class="mb-3">
+                        </p>
+                    </div>                    
+                  </div>                  
+                </div>
+                <div class="col-xl-6 mb-5">
+                  <div class="tm-contact-form-wrap">
+                    <form action="" method="POST" class="tm-contact-form">
+                        <div class="form-group">
+                          <input type="text" id="contact_name" name="contact_name" class="form-control rounded-0 border-top-0 border-right-0 border-left-0"
+                                placeholder="Your Name" required="" />
+                        </div>
+                        <div class="form-group">
+                          <input type="email" id="contact_email" name="contact_email" class="form-control rounded-0 border-top-0 border-right-0 border-left-0"
+                                 placeholder="Your Email" required="" />
+                        </div>
+                
+                        <div class="form-group">
+                          <textarea rows="4" id="contact_message" name="contact_message" class="form-control rounded-0 border-top-0 border-right-0 border-left-0" 
+                                  placeholder="Message..." required=""></textarea>
+                        </div>
+                
+                        <div class="form-group mb-0">
+                          <button type="submit" class="btn rounded-0 d-block ml-auto tm-btn-primary">
+                            SEND
+                          </button>
+                        </div>
+                      </form>
+                  </div>                    
+                </div>
+              </section>
+          </div>
+        </main>        
+      </div>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="slick/slick.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/templatemo-scripts.js"></script>
+  </body>
+</html>
